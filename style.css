@@ -17,7 +17,7 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+/*
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -25,7 +25,7 @@ a:hover {
     width: 100%;
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
-}
+}*/
 
 .bloc {
     width: 100%;
@@ -55,7 +55,7 @@ a:hover {
 .bloc-sm {
     padding: 20px 50px;
 }
-
+/*
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -89,7 +89,7 @@ a:hover {
     left: 0;
     right: 0;
 }
-/*
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
