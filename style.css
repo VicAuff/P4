@@ -680,11 +680,11 @@ a {
 p {
     font-size: 11px;
 }
-
+/*
 .tight-width-whitespace {
-    /*max-width: 600px;*/
-    /*margin: auto auto auto auto;*/
-}
+    max-width: 600px;
+    margin: auto auto auto auto;
+}*/
 
 .h1 {
     font-size: 20px;
