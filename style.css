@@ -118,7 +118,7 @@ a:hover {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
-
+/*
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
@@ -134,7 +134,7 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
-}
+}*/
 
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -651,7 +651,8 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
+    font-weight: bold;
 }
 
 .container {
@@ -734,10 +735,10 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-
+/*
 .white {
     color: #FFFFFF!important;
-}
+}*/
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -780,7 +781,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -789,7 +790,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white:hover {
