@@ -813,7 +813,9 @@ h4 {
 
 .image-resize-mode{
     width: 100px;
-    height: 100px;
+    background-color: white;
+    border-radius: 50px;
+
 }
 /*
 .bg-dots-bg {
