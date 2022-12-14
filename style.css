@@ -107,6 +107,11 @@ a:hover {
     color: rgba(255, 255, 255, .9);
 }
 
+.col-sm-6{
+    display: flex;
+    flex-direction: column;
+}
+
 .d-bloc .icon-round,
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
@@ -780,6 +785,7 @@ h4 {
     color: #F3976C!important;
 }
 
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #000000!important;
@@ -795,7 +801,7 @@ h4 {
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #ffffff!important;
 }
 
 .ltc-atomic-tangerine {
@@ -815,7 +821,6 @@ h4 {
     width: 100px;
     background-color: white;
     border-radius: 50px;
-
 }
 /*
 .bg-dots-bg {
