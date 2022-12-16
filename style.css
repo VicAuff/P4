@@ -823,18 +823,10 @@ h4 {
 
 .image-resize-mode{
     width: 100px;
+    height: 100px;
     background-color: white;
     border-radius: 50px;
 }
-/*
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-}*/
-/*
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-}*/
-
 .bg-banniere {
     background-image: url("img/agence-la-panthere.webp");
 }
