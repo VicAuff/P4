@@ -1,6 +1,6 @@
 # Agence La panthère
 
-Accessible en ligne, en cliquant sur le lien ----> [Booki](https://vicauff.github.io/P4/).
+Accessible en ligne, en cliquant sur le lien ----> [Agence La Panthère](https://vicauff.github.io/P4/).
 
 [![version](https://img.shields.io/badge/version-1.0.0-red)](CHANGELOG.md)
 
